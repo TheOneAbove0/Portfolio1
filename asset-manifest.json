@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio1/static/css/main.b6085008.css",
+    "main.js": "/Portfolio1/static/js/main.1c733eaa.js",
+    "static/js/787.0fe84981.chunk.js": "/Portfolio1/static/js/787.0fe84981.chunk.js",
+    "static/media/aboutimg.jpg": "/Portfolio1/static/media/aboutimg.5629823f58359db3bfc2.jpg",
+    "static/media/profile.jpg": "/Portfolio1/static/media/profile.5629823f58359db3bfc2.jpg",
+    "static/media/Image2.jpg": "/Portfolio1/static/media/Image2.cdd52bf8efc564fee9f8.jpg",
+    "static/media/Image3.jpg": "/Portfolio1/static/media/Image3.a4df17a13fee7af3b617.jpg",
+    "static/media/Image1.jpg": "/Portfolio1/static/media/Image1.9caf6a225cb06c4ab5bf.jpg",
+    "static/media/Manish-CV.pdf": "/Portfolio1/static/media/Manish-CV.a3f9d76166bb3a211823.pdf",
+    "index.html": "/Portfolio1/index.html",
+    "main.b6085008.css.map": "/Portfolio1/static/css/main.b6085008.css.map",
+    "main.1c733eaa.js.map": "/Portfolio1/static/js/main.1c733eaa.js.map",
+    "787.0fe84981.chunk.js.map": "/Portfolio1/static/js/787.0fe84981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6085008.css",
+    "static/js/main.1c733eaa.js"
+  ]
+}
